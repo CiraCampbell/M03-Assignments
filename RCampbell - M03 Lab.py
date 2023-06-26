@@ -1,4 +1,6 @@
-# super class
+# Name: Roan Campbell
+# Date: 06/25/2023
+# Description: Take input from a user about a certain type of vehicle to return a list of related informational inputs.
 class Vehicle:
     def __init__(self, vehicleType):
         self.vehicleType = vehicleType
